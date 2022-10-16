@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "xibao",
+        "name": "Xibao",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["IzzelAliz"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
